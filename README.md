@@ -321,7 +321,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-📈![image alt](
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task1_Exploratory_Data_Analysis-/blob/7590f62bfc3600b64daea76ee27f050dbc911c8c/05_revenue_by_category.png) 
 
 ### 12. Total Revenue Calculation
 
