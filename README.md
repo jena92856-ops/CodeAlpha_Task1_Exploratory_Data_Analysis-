@@ -393,7 +393,7 @@ plt.title("Quantity vs Total Amount")
 plt.show()
 ```
 
-📈 **Graph:** *Quantity vs Total Amount* — scatter plot comparing units purchased to total transaction value.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task1_Exploratory_Data_Analysis-/blob/f0ae8d1177df66faa2557c06c4f0e6b852706ce6/07_quantity_vs_amount.png) 
 
 ### 16. Outlier Detection
 
