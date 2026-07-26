@@ -296,7 +296,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-📈![image alt](
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task1_Exploratory_Data_Analysis-/blob/f29b2cd3db01c8dedf687e528b03eb157f4dfa15/04_category_distribution.png) 
 
 ### 11. Revenue by Product Category
 
@@ -321,7 +321,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-📈 **Graph:** *Revenue by Product Category* — bar chart of total revenue generated per category.
+📈![image alt](
 
 ### 12. Total Revenue Calculation
 
