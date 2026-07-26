@@ -433,7 +433,7 @@ plt.title("Correlation Heatmap")
 plt.show()
 ```
 
-📈![image alt](
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task1_Exploratory_Data_Analysis-/blob/303f571f7cc1b6cc66ee2bcb8c6d0132bb682e4d/09_correlation_heatmap.png) 
 
 ---
 
@@ -465,6 +465,6 @@ plt.show()
 
 ---
 
-## 📄 License
+## Author 
 
-This project is provided for educational purposes. Add a license of your choice (e.g., MIT) if you plan to distribute this repository publicly.
+CodeAlpha-Data Analytics Internship Task 1: EDA 
