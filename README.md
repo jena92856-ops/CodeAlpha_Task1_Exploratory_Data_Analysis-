@@ -275,7 +275,7 @@ plt.ylabel("Revenue")
 plt.show()
 ```
 
-📈![image alt](
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task1_Exploratory_Data_Analysis-/blob/07984abf3afdec7bb2ef98b210bf17b76c0fb2fc/03_sales_by_gender.png)
 
 ### 10. Product Category Distribution
 
@@ -296,7 +296,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-📈 **Graph:** *Product Category Distribution* — count plot of transactions per product category.
+📈![image alt](
 
 ### 11. Revenue by Product Category
 
