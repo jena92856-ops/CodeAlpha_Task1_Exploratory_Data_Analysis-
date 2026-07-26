@@ -411,9 +411,9 @@ plt.title("Outlier Detection in Total Amount")
 plt.show()
 ```
 
-📈 **Graph:** *Outlier Detection in Total Amount* — box plot highlighting outliers in transaction values.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task1_Exploratory_Data_Analysis-/blob/71124af6283a056bb88229cdbb769d80a61a15d0/08_outlier_boxplot.png)
 
-### 17. Correlation Heatmap
+### 17. Correlation Heatmap*
 
 A correlation matrix across all numeric fields is computed and rendered as an annotated heatmap.
 
@@ -433,7 +433,7 @@ plt.title("Correlation Heatmap")
 plt.show()
 ```
 
-📈 **Graph:** *Correlation Heatmap* — annotated heatmap of pairwise correlations between numeric fields (Age, Quantity, Price per Unit, Total Amount).
+📈![image alt](
 
 ---
 
