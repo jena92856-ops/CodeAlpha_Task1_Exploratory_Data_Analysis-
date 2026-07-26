@@ -237,7 +237,7 @@ plt.ylabel("Count")
 plt.show()
 ```
 
-📈 **Graph:** *Customer Age Distribution* — histogram with KDE curve of customer ages.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task1_Exploratory_Data_Analysis-/blob/ec5f9ebac7eef105ad55329438a4dfaf3d8f4d8c/01_age_distribution.png) 
 
 ### 8. Gender Distribution
 
@@ -253,7 +253,7 @@ plt.title("Gender Distribution")
 plt.show()
 ```
 
-📈 **Graph:** *Gender Distribution* — count plot of transactions by gender.
+📈![image alt](
 
 ### 9. Sales by Gender
 
