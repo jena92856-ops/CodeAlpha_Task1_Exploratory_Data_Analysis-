@@ -373,7 +373,7 @@ plt.xticks(rotation=45)
 plt.show()
 ```
 
-📈 **Graph:** *Top 10 Highest Transactions* — bar chart of the 10 highest-value transactions by Transaction ID.
+📈![image alt](https://github.com/jena92856-ops/CodeAlpha_Task1_Exploratory_Data_Analysis-/blob/1fce140be12e4d1f37c93205846dc637666166d0/06_top_10_transactions.png) 
 
 ### 15. Quantity vs Total Amount Analysis
 
